@@ -2,17 +2,17 @@
 
 Method of transaction
 
-Payment through online store
+1. Payment through online store
 
-a. Payment through Solana Pay. Paying via crypto
+  a. Payment through Crypto Bridge. Paying via crypto
 
-b. Payment through Credit Card / Paynow / Paypal
+  b. Payment through Credit Card / Paynow / Paypal
 
-Payment in physical store
+2. Payment in physical store
 
-a. Payment with Cash
+  a. Payment with Cash
 
-1.a - Payment through Solana Pay.
+1.a - Payment through Crypto Bridge
 
 In this methhod the cusomer is paying through crypto. So one atomic transaction can be created for two underlying transactions. 
 TXN #1 - Payment via crypto from customer to merchant
