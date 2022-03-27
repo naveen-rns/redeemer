@@ -1,4 +1,4 @@
-# Redeem Loyalty Points
+# CASHBACK | LOYALTY | VOUCHERS | PAYMENTS
 
 Method of transaction
 
